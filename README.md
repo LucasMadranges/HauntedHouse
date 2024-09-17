@@ -2,7 +2,6 @@
 
 Haunted House made with ThreeJS with the course ThreeJS Journey by Bruno Simon
 
-
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
